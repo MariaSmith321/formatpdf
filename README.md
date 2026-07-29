@@ -2,7 +2,7 @@
 
 Looking for a simple and reliable way to work with PDF files online? **Format PDF Free** provides a complete collection of online PDF tools to convert, compress, merge, split, edit, and organize your documents quickly without installing any software. This guide explains how Format PDF can simplify your everyday document management.
 
-![formatpdf](/formatpdf.jpg)
+![Format_PDF](/Format_PDF.jpg)
 
 # What Is [Format PDF](https://www.formapdf.com/) and Why Is It Important?
 
